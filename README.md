@@ -12,6 +12,7 @@ This is a FastAPI backend built for the KPA assignment. It contains two APIs:
 1. Clone or download this project folder
 2. Open the folder in VS Code or any terminal
 3. Create and activate a virtual environment:
+
 ```bash
 
 python -m venv venv #Creating a Virtual Environment 
